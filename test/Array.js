@@ -9,7 +9,7 @@ let response = [
   {stark: 'arya', lannister: 'tyrion', targaryen: 'daenerys', Greyjoy: 'Theon'},
   {stark: 'rob', lannister: 'jaime', targaryen: 'Viserys', Greyjoy: 'Yara'},
   {stark: 'brandon', lannister: 'tyrion', targaryen: 'Rhaegar', Greyjoy: 'balon'},
-  {stark: 'sansa', lannister: 'tyrion', targaryen: 'Aegon', Greyjoy: 'euron'}
+  {stark: 'sansa', lannister: 'tywin', targaryen: 'Aegon', Greyjoy: 'euron'}
 ]
 
 describe('Array', () => {
