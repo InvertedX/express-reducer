@@ -27,7 +27,7 @@ describe('Array', () => {
             {stark: 'arya', lannister: 'tyrion'},
             {stark: 'rob', lannister: 'jaime'},
             {stark: 'brandon', lannister: 'tyrion'},
-            {stark: 'sansa', lannister: 'tyrion'}
+            {stark: 'sansa', lannister: 'tywin'}
           ]
 
           res.body.should.eql(expected);
