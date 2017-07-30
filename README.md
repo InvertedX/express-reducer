@@ -38,8 +38,8 @@ app.get('/object', function (req, res) {
 The above route will return entire object but the client just need name and profile_image
 but creating multiple end points with different response is tedious.
 
-using express-reducer we can solve this issue similar to  **[GraphQL](http://graphql.org)** client can pass what they need 
-client can pass `Pluck` keyword as GET parameter along with required object keys 
+using express-reducer we can solve this issue similar to  **[GraphQL](http://graphql.org)** .client can pass what they need 
+using `Pluck` keyword as GET parameter along with required object keys 
 
 for example
 
@@ -108,4 +108,4 @@ See the mocha [tests](https://github.com/InvertedX/express-reducer/tree/master/t
 # License
 The MIT license
 
-Copyright © 2016 Sarath kumar ([sarath.me](https://sarath.me) )
+Copyright © 2017 Sarath kumar ([sarath.me](https://sarath.me) )
