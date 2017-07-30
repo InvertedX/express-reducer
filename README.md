@@ -6,7 +6,7 @@ Express-reducer mutate response json body according to client requirements like 
 this is will improve client side performance check usage section for more details  
  
 
-## Getting started [![npm version](https://badge.fury.io/js/express-reducer.svg)](https://badge.fury.io/for/js/express-reducer)
+## Getting started [![npm version](https://badge.fury.io/js/express-reducer.svg)](https://www.npmjs.com/package/express-reducer)
 
     $ npm install express-reducer
 
