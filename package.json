@@ -1,0 +1,40 @@
+{
+  "name": "express-reducer",
+  "version": "0.0.1",
+  "description": "Simple express middleware for filter out response body",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/InvertedX/express-reducer.git"
+  },
+  "keywords": [
+    "middleware",
+    "GET",
+    "parameter reduce",
+    "reducer",
+    "transform",
+    "response",
+    "express"
+  ],
+  "author": "Richard Schneider <makaretu@gmail.com>",
+  "contributors": [
+      "Sarath kumar <sarathkumars677@gmail.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/InvertedX/express-reducer/issues"
+  },
+  "homepage": "https://github.com/InvertedX/express-reducer#readme",
+  "devDependencies": {
+    "bluebird": "^3.0.5",
+    "express": "^4.13.3",
+    "mocha": "^3.2.0",
+    "should": "^11.1.1",
+    "supertest": "^3.0.0"
+  },
+  "dependencies": {
+  }
+}
