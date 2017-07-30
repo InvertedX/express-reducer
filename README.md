@@ -22,7 +22,7 @@ Then in your middleware
 
 Just hookup with express and we are good to go
 
-#####Using with objects and array responses
+**Using with objects and array responses**
 ```javascript
 app.get('/object', function (req, res) {
   res.json({
@@ -47,7 +47,7 @@ for example
  http://api.dev/object?pluck=name,profile_image
  ``
  
-*response will be look like this*
+**response will be look like this**
 
  ```json
   {
@@ -78,7 +78,7 @@ we can filter out these characters based on the family like this
 
 ``http://api.dev/characters?pluck=stark,targaryen``
 
-*response will be look like this *
+*response will be look like this*
 
 ```json
 [
