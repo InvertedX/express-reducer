@@ -1,12 +1,19 @@
-# express-reducer [![Build Status](https://travis-ci.org/InvertedX/express-reducer.svg?branch=master)](https://travis-ci.org/InvertedX/express-reducer)
+# express-reducer
+
+[![Build Status](https://travis-ci.org/InvertedX/express-reducer.svg?branch=master)](https://travis-ci.org/InvertedX/express-reducer)
+[![npm version](https://badge.fury.io/js/express-reducer.svg)](https://www.npmjs.com/package/express-reducer)
+[![npm](https://img.shields.io/npm/v/npm.svg)](express-reducer)
+[![label](https://img.shields.io/github/issues-raw/badges/shields/website.svg)](express-reducer)
+[![Github file size](https://img.shields.io/github/size/webcaetano/craft/build/craft.min.js.svg)](express-reducer)
+[![npm](https://img.shields.io/npm/dw/localeval.svg)](express-reducer)
 
 Middleware for express responses. 
 
-Express-reducer mutate response json body according to client requirements like graphQL
-this is will improve client side performance check usage section for more details  
+Express-reducer mutate response json body according to client requirements like graphQL.
+this will improve client side performance check usage section for more details  
  
 
-## Getting started [![npm version](https://badge.fury.io/js/express-reducer.svg)](https://www.npmjs.com/package/express-reducer)
+## Getting started 
 
     $ npm install express-reducer
 
